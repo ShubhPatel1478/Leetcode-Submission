@@ -20,6 +20,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
