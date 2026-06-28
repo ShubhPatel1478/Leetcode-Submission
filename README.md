@@ -15,6 +15,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -29,6 +30,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0992-subarrays-with-k-different-integers) |
+| [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
 | ------- |
