@@ -25,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0992-subarrays-with-k-different-integers) |
@@ -79,6 +80,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0992-subarrays-with-k-different-integers) |
@@ -105,6 +107,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2833-furthest-point-from-origin](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2833-furthest-point-from-origin) |
@@ -144,6 +147,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
