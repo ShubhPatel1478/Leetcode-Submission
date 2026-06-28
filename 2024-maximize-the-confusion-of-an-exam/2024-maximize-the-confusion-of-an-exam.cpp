@@ -10,7 +10,7 @@ public:
         while(r<n){
             mpp[s[r]]++;
             maxfreq=max(maxfreq,mpp[s[r]]);
-            while(r-l+1-maxfreq>k){
+            if(r-l+1-maxfreq>k){
                 mpp[s[l]]--;
                 maxfreq=max(maxfreq,mpp[s[l]]);
                 l++;
