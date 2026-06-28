@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0992-subarrays-with-k-different-integers) |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
@@ -60,6 +62,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -130,4 +133,8 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
