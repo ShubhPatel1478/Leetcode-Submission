@@ -17,6 +17,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -113,6 +114,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2833-furthest-point-from-origin](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
