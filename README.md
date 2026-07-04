@@ -41,6 +41,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -57,6 +58,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -93,6 +95,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +237,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
 | ------- |
