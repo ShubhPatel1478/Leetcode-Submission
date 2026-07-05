@@ -8,6 +8,7 @@
 | [0055-jump-game](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0523-continuous-subarray-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0713-subarray-product-less-than-k) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
@@ -35,6 +36,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
@@ -140,6 +142,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1004-max-consecutive-ones-iii) |
@@ -198,6 +201,7 @@
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
