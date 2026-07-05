@@ -6,6 +6,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0055-jump-game) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -155,6 +157,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -211,6 +214,7 @@
 | [0101-symmetric-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
@@ -230,6 +234,7 @@
 | [0101-symmetric-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
