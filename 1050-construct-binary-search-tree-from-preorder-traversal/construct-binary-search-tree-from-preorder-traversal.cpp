@@ -11,24 +11,18 @@
  */
 class Solution {
 public:
-    TreeNode* f(vector<int>&inorder,int is,int ie,vector<int>&preorder,int ps,int pe,map<int,int>&mpp){
-        if(is>ie || ps>pe){
+    TreeNode* f(vector<int>&preorder,int&i,int bound){
+        if(i==preorder.size() || preorder[i]>bound){
             return NULL;
         }
-        TreeNode* root=new TreeNode(preorder[ps]);
-        int inroot=mpp[root->val];
-        int left=inroot-is;
-        root->left=f(inorder,is,inroot-1,preorder,ps+1,ps+left,mpp);
-        root->right=f(inorder,inroot+1,ie,preorder,ps+left+1,pe,mpp);
+        TreeNode* root=new TreeNode(preorder[i]);
+        i++;
+        root->left=f(preorder,i,root->val);
+        root->right=f(preorder,i,bound);
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int>inorder=preorder;
-        sort(inorder.begin(),inorder.end());
-        map<int,int>mpp;
-        for(int i=0;i<inorder.size();i++){
-            mpp[inorder[i]]=i;
-        }
-        return f(inorder,0,inorder.size()-1,preorder,0,preorder.size()-1,mpp);
+        int i=0;
+        return f(preorder,i,INT_MAX);
     }
 };
